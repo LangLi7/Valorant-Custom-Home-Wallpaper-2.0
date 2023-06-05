@@ -9,9 +9,7 @@ This Python project allows users to automatically swap custom wallpapers for the
 - Select Wallpaper Folder: Users can specify the folder where the desired wallpapers are located.
 - Automatic Wallpaper Swapping: The program automatically swaps between the wallpapers in the selected folder.
 - Previous and Next Wallpaper: Users can manually switch to the previous or next wallpaper.
-- Configurable Time Intervals: The time interval between wallpaper changes can be customized by the user.
-- Support for Custom Wallpaper Names: Users can specify the name of the wallpaper to make it more personalized.
-- System Tray Integration: The program runs in the system tray and can be controlled from there.
+- System Tray Integration: The program runs in the system tray and can be controlled from there. Please note that when right-clicking on the system tray icon, it may require multiple attempts as the Valorant game can intercept the first right-click. Please be aware that this can be somewhat cumbersome.
 - Deployment as an Executable File: The project includes the ability to create an executable file (exe) to run the program on other systems without Python installation.
 
 ## Technologies Used
@@ -61,10 +59,8 @@ Dieses Python-Projekt ermöglicht es Benutzern, benutzerdefinierte Hintergrundbi
 - Auswahl des Ordners mit den Hintergrundbildern: Benutzer können den Ordner angeben, in dem sich die gewünschten Hintergrundbilder befinden.
 - Automatischer Hintergrundbildwechsel: Das Programm wechselt automatisch zwischen den Hintergrundbildern im ausgewählten Ordner.
 - Vorheriges und nächstes Hintergrundbild: Benutzer können manuell zum vorherigen oder nächsten Hintergrundbild wechseln.
-- Konfigurierbare Zeitintervalle: Die Zeitspanne zwischen den Hintergrundbildwechseln kann vom Benutzer angepasst werden.
-- Unterstützung für benutzerdefinierte Hintergrundbildnamen: Benutzer können den Namen des Hintergrundbilds angeben, um es personalisierter zu gestalten.
 - Systemtray-Integration: Das Programm wird im Systemtray ausgeführt und kann von dort aus gesteuert werden.
-- Bereitstellung als ausführbare Datei: Das Projekt enthält die Möglichkeit, eine ausführbare Datei (exe) zu erstellen, um das Programm auf anderen Systemen ohne Python-Installation auszuführen.
+- Bereitstellung als ausführbare Datei: Das Projekt enthält die Möglichkeit, eine ausführbare Datei (exe), um das Programm auf anderen Systemen ohne Python-Installation auszuführen.
 
 ## Verwendete Technologien
 
