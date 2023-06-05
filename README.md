@@ -1,6 +1,7 @@
 # Valorant-Custom-Home-Wallpaper-2.0
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## English Version:
 This Python project allows users to automatically swap custom wallpapers for the game Valorant. It provides a simple and user-friendly interface to select wallpapers and set up automatic updates. The project also includes the ability to create an executable file (exe) to run the program on other systems without Python installation.
 
 ## Features
