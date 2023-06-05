@@ -55,11 +55,11 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 Dieses Python-Projekt ermöglicht es Benutzern, benutzerdefinierte Hintergrundbilder für das Spiel Valorant automatisch auszutauschen. Es bietet eine einfache und benutzerfreundliche Benutzeroberfläche, um die Hintergrundbilder auszuwählen und die automatische Aktualisierung einzurichten. Das Projekt enthält auch die Möglichkeit, eine ausführbare Datei (exe) zu erstellen, um das Programm auf anderen Systemen ohne Python-Installation auszuführen.
 
 ## Funktionen
-
 - Auswahl des Ordners mit den Hintergrundbildern: Benutzer können den Ordner angeben, in dem sich die gewünschten Hintergrundbilder befinden.
 - Automatischer Hintergrundbildwechsel: Das Programm wechselt automatisch zwischen den Hintergrundbildern im ausgewählten Ordner.
 - Vorheriges und nächstes Hintergrundbild: Benutzer können manuell zum vorherigen oder nächsten Hintergrundbild wechseln.
 - Systemtray-Integration: Das Programm wird im Systemtray ausgeführt und kann von dort aus gesteuert werden.
+- Starten von Valorant bei der interaktion mit Systemtray-Integration
 - Bereitstellung als ausführbare Datei: Das Projekt enthält die Möglichkeit, eine ausführbare Datei (exe), um das Programm auf anderen Systemen ohne Python-Installation auszuführen.
 
 ## Verwendete Technologien
